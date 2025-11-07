@@ -6,8 +6,15 @@ This project focuses on analyzing and visualizing coffee shop sales data using E
 ## Key Responsibilities
 - Collected and cleaned raw transactional data to ensure accuracy and consistency for analysis.
 - Designed an interactive Excel dashboard to track key business metrics including:
-  - Total revenue
-  - Transactions by category, day, and hour
+
+  - Total revenue by Month and Transactions by Category
+
+    <img width="1616" height="358" alt="TransactionbyMonthCategory" src="https://github.com/user-attachments/assets/eb96da9f-1840-45f9-a102-3f0fa491ef18" />
+
+  - Transactions by Days and Hours
+ 
+    <img width="1825" height="520" alt="TransactionbyHours" src="https://github.com/user-attachments/assets/11996a1d-8d71-437f-a8a6-1492c2ae0ce4" />
+
 - Created calculated columns and dynamic visuals such as bar and line charts for trend analysis and KPI tracking.
 - Implemented filters by region and product category for flexible data exploration.
 - Enabled data-driven insights into sales performance, customer behavior, and product demand patterns.
